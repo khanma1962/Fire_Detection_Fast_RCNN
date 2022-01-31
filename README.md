@@ -6,5 +6,14 @@ In this project, downloaded 500 images from internet, used labellmg to create bo
 
 ### Sample image with the bounding boxes
 
-![A sample image](pics/sample input.png)
+![Sample image](pics/sample_input.png)
+
+
+### Metrics
+
+![A sample image](pics/metrics.png)
+
+### Inference image with the bounding boxes
+
+![A sample image](pics/inference.png)
 
